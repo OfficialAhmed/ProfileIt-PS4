@@ -8,7 +8,7 @@ https://mega.nz/#!SupgkC6b!8qnf44VFrbKbjiPx4lSEmw5kHCSHmR7-PqIDkFVsnjI
 when you run the installer as shown in the first picture on the link
 http://docs.wand-py.org/en/0.3.5/guide/install.html
 it'll ask you for additional tasks 
-choose all of tasks
+choose all of the tasks
 
 and you're good to go.
 NOTE: these steps only for first time next time you only run the tool ProfileIt
