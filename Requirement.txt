@@ -1,7 +1,7 @@
 The tool require ImageMagick in order to be able to convert the images 
 please consider downloading and installing it before running my tool 
 
-ImageMagick
+ImageMagick 6.9.10-84-Q16
 https://mega.nz/#!SupgkC6b!8qnf44VFrbKbjiPx4lSEmw5kHCSHmR7-PqIDkFVsnjI
 
 (installation):
