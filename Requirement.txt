@@ -2,10 +2,7 @@ The tool require ImageMagick in order to be able to convert the images
 please consider downloading and installing it before running my tool 
 
 for WIN 64bit
-https://imagemagick.org/download/binaries/ImageMagick-7.0.9-15-Q16-x64-static.exe
-
-WIN 32bit
-https://imagemagick.org/download/binaries/ImageMagick-7.0.9-15-Q16-x86-static.exe
+http://www.imagemagick.org/download/binaries/
 
 (installation):
 
